@@ -1,0 +1,155 @@
+{
+    "is_followed": false,
+    "educations": [
+        {
+            "school": {
+                "introduction": "北卡罗来纳州立大学（North Carolina State University）成立于1887年。很早以前就在农业、工程、和教学等领域有著良好的基础。随后，又在生命科学、物理科学、纺织、设计、和社会科学等领域有了长足的发展。 北卡罗来纳州立大学现有学生近3万名（其中包括约1000名外国学生）。每年的预算大约有8.2亿美元。其中用于科研和技术开发的经费则占全美国第31名。学校师资力量雄厚，有19位教授被选为美国科学院（National Academy of Sciences）或工程院（National Academy of Engineering）院士。",
+                "excerpt": "北卡罗来纳州立大学（North Carolina State University）成立于1887年。很早以前就在农业、工程、和教学等领域有著良好的基础。随后，又在生命科学、物理科学、纺织、设计、和社会科学等领域有了长足的发展。 北卡罗来纳州立大学现有学生近3万名（其中包括约1000名外国学生）。每年的预算大约有8.2亿美元。其中用于科研和技术开发的经费则占全美国第31名。学校师资力量雄厚，有19位教授被选为美国科学院（National Academy of Sc…",
+                "url": "",
+                "avatar_url": "https://pic2.zhimg.com/2be10edc1_is.jpg",
+                "type": "topic",
+                "id": "19723909"
+            },
+            "major": {
+                "name": "Civil Engineering",
+                "introduction": "",
+                "excerpt": "",
+                "url": "",
+                "avatar_url": "https://pic1.zhimg.com/e82bab09c_is.jpg",
+                "type": "topic",
+                "id": ""
+            }
+        },
+        {
+            "school": {
+                "name": "斯坦福大学（Stanford University）",
+                "introduction": "",
+                "excerpt": "",
+                "url": "",
+                "avatar_url": "https://pic1.zhimg.com/e82bab09c_is.jpg",
+                "type": "topic",
+                "id": ""
+            }
+        },
+        {
+            "school": {
+                "name": "南洋理工大学（Nanyang Technological University）",
+                "introduction": "<p><a href=\"http://www.compassedu.hk/univ_39_10?zhihuupdate\" data-editable=\"true\" data-title=\"南洋理工大学\">南洋理工大学</a>（简称NTU，南大），是新加坡首屈一指的世界级顶尖大学。NTU工学院是全球规模最大的工程学院之一，商学院也是亚洲顶尖商学院之一。在2015QS世界大学排名中，NTU名列第13位。</p>",
+                "excerpt": "南洋理工大学 （简称NTU，南大），是新加坡首屈一指的世界级顶尖大学。NTU工学院是全球规模最大的工程学院之一，商学院也是亚洲顶尖商学院之一。在2015QS世界大学排名中，NTU名列第13位。",
+                "url": "",
+                "avatar_url": "https://pic3.zhimg.com/5bc0d65e6_is.jpg",
+                "type": "topic",
+                "id": "19648107"
+            }
+        },
+        {
+            "school": {
+                "name": "浙江大学",
+                "introduction": "浙江大学，简称浙大，坐落于素有“人间天堂”美誉的历史文化名城杭州。前身是1897年创建的求是书院，是中国人自己最早创办的现代高等学府之一，是一所具有悠久历史的教育部直属全国重点大学，985、211工程重点建设高校。据ESI公布的数据，截至2015年9月，浙江大学18个学科进入世界学术机构前1%，居全国高校第二；7个学科进入世界前100位，4个学科进入世界前",
+                "excerpt": "浙江大学，简称浙大，坐落于素有“人间天堂”美誉的历史文化名城杭州。前身是1897年创建的求是书院，是中国人自己最早创办的现代高等学府之一，是一所具有悠久历史的教育部直属全国重点大学，985、211工程重点建设高校。据ESI公布的数据，截至2015年9月，浙江大学18个学科进入世界学术机构前1%，居全国高校第二；7个学科进入世界前100位，4个学科进入世界前",
+                "url": "",
+                "avatar_url": "https://pic2.zhimg.com/c6dc9c4a0facc8b00ed685de39d29ced_is.png",
+                "type": "topic",
+                "id": "19580559"
+            },
+            "major": {
+                "name": "环境科学",
+                "introduction": "研究环境的物理、化学、生物三个部分的学科。它提供了综合、定量，和跨学科的方法来研究环境系统。由于大多数环境问题涉及人类活动，因此经济、法律和社会科学知识往往也可用于环境科学研究。<br>研究人类社会发展活动与环境演化规律之间相互作用关系，寻求人类社会与环境协同演化、持续发展途径与方法的的科学。",
+                "excerpt": "研究环境的物理、化学、生物三个部分的学科。它提供了综合、定量，和跨学科的方法来研究环境系统。由于大多数环境问题涉及人类活动，因此经济、法律和社会科学知识往往也可用于环境科学研究。 研究人类社会发展活动与环境演化规律之间相互作用关系，寻求人类社会与环境协同演化、持续发展途径与方法的的科学。",
+                "url": "",
+                "avatar_url": "https://pic3.zhimg.com/b89518e231f7f44767fc9ae279cbc71e_is.jpg",
+                "type": "topic",
+                "id": "19672362"
+            }
+        }
+    ],
+    "following_count": 208,
+    "vote_from_count": 0,
+    "user_type": "people",
+    "show_sina_weibo": true,
+    "pins_count": 1,
+    "is_following": false,
+    "marked_answers_text": "知乎周刊和编辑推荐",
+    "account_status": [],
+    "is_force_renamed": false,
+    "id": "5b2454ef6c1f59ce37fe614d77a64e30",
+    "favorite_count": 17,
+    "voteup_count": 69802,
+    "commercial_question_count": 0,
+    "is_blocking": false,
+    "following_columns_count": 25,
+    "headline": "世界上有两种人。",
+    "url_token": "xiaozhenliu",
+    "participated_live_count": 11,
+    "following_favlists_count": 2,
+    "is_advertiser": false,
+    "is_bind_sina": true,
+    "favorited_count": 70090,
+    "is_org": false,
+    "follower_count": 207967,
+    "employments": [],
+    "marked_answers_count": 11,
+    "avatar_url_template": "https://pic3.zhimg.com/v2-44c3d55bebe52963efdb6d0cb857c3fe_{size}.jpg",
+    "following_topic_count": 44,
+    "description": "人美也要多读书。<br>不爱答科普题。不回复留学和职业选择问题。关注教育、认知、创新、工作效率、行动科学。",
+    "business": {
+        "url": "",
+        "avatar_url": "https://pic1.zhimg.com/e82bab09c_is.jpg",
+        "name": "娱乐休闲",
+        "introduction": "",
+        "type": "topic",
+        "excerpt": "",
+        "id": ""
+    },
+    "avatar_url": "https://pic3.zhimg.com/v2-44c3d55bebe52963efdb6d0cb857c3fe_is.jpg",
+    "sina_weibo_url": "http://weibo.com/u/1644688871",
+    "hosted_live_count": 0,
+    "is_active": 1,
+    "thank_to_count": 0,
+    "mutual_followees_count": 1,
+    "badge": [
+        {
+            "topics": [
+                {
+                    "name": "环境保护",
+                    "introduction": "环境保护是指人类为解决现实的或潜在的环境问题，协调人类与环境的关系，保障经济社会的持续发展而采取的各种行动的总称。",
+                    "excerpt": "环境保护是指人类为解决现实的或潜在的环境问题，协调人类与环境的关系，保障经济社会的持续发展而采取的各种行动的总称。",
+                    "url": "",
+                    "avatar_url": "https://pic4.zhimg.com/bc1454857_is.jpg",
+                    "type": "topic",
+                    "id": "19561734"
+                }
+            ],
+            "type": "best_answerer",
+            "description": "优秀回答者"
+        }
+    ],
+    "cover_url": "https://pic1.zhimg.com/v2-a0504eb1fc7c3ada4a56e2917394d7e8_b.jpg",
+    "thank_from_count": 0,
+    "vote_to_count": 0,
+    "is_blocked": false,
+    "answer_count": 480,
+    "allow_message": false,
+    "articles_count": 25,
+    "name": "刘虓震",
+    "question_count": 30,
+    "locations": [
+        {
+            "name": "杭州",
+            "introduction": "杭州，简称杭，浙江省省会，位于中国东南沿海、浙江省北部、钱塘江下游、京杭大运河南端，是浙江省的政治、经济、文化和金融中心，长江三角洲城市群中心城市之一、长三角宁杭生态经济带节点城市、 中国重要的电子商务中心之一。",
+            "excerpt": "杭州，简称杭，浙江省省会，位于中国东南沿海、浙江省北部、钱塘江下游、京杭大运河南端，是浙江省的政治、经济、文化和金融中心，长江三角洲城市群中心城市之一、长三角宁杭生态经济带节点城市、 中国重要的电子商务中心之一。",
+            "url": "",
+            "avatar_url": "https://pic2.zhimg.com/v2-7dbc88d78852e4ca87cb74731e616719_is.jpg",
+            "type": "topic",
+            "id": "19558830"
+        }
+    ],
+    "type": "people",
+    "sina_weibo_name": "刘虓震",
+    "url": "https://www.zhihu.com/api/v4/people/5b2454ef6c1f59ce37fe614d77a64e30",
+    "message_thread_token": "3492924000",
+    "logs_count": 407,
+    "following_question_count": 759,
+    "thanked_count": 20768,
+    "gender": 0
+}

@@ -1,0 +1,322 @@
+{
+    "is_followed": false,
+    "educations": [],
+    "following_count": 1,
+    "vote_from_count": 0,
+    "user_type": "people",
+    "show_sina_weibo": false,
+    "pins_count": 0,
+    "is_following": false,
+    "marked_answers_text": "",
+    "account_status": [],
+    "is_force_renamed": false,
+    "id": "2f17bf11d738766468d9a0ce0894f68a",
+    "favorite_count": 0,
+    "voteup_count": 531,
+    "commercial_question_count": 0,
+    "is_blocking": false,
+    "following_columns_count": 0,
+    "headline": "",
+    "url_token": "qingfengzi",
+    "participated_live_count": 0,
+    "following_favlists_count": 0,
+    "is_advertiser": false,
+    "is_bind_sina": false,
+    "favorited_count": 158,
+    "is_org": false,
+    "follower_count": 403,
+    "employments": [],
+    "type": "people",
+    "avatar_url_template": "https://pic1.zhimg.com/506f5ac68eca38375140fb795770d454_{size}.png",
+    "following_topic_count": 0,
+    "description": "",
+    "avatar_url": "https://pic1.zhimg.com/506f5ac68eca38375140fb795770d454_is.png",
+    "hosted_live_count": 0,
+    "is_active": 1,
+    "thank_to_count": 0,
+    "mutual_followees_count": 1,
+    "marked_answers_count": 0,
+    "cover_url": "",
+    "thank_from_count": 0,
+    "vote_to_count": 0,
+    "is_blocked": false,
+    "answer_count": 109,
+    "allow_message": false,
+    "articles_count": 0,
+    "name": "清风子",
+    "question_count": 1,
+    "locations": [],
+    "badge": [],
+    "url": "https://www.zhihu.com/api/v4/people/2f17bf11d738766468d9a0ce0894f68a",
+    "message_thread_token": "0700944800",
+    "logs_count": 26,
+    "following_question_count": 32,
+    "thanked_count": 175,
+    "gender": 0
+}
+
+
+
+{
+    "is_followed": false,
+    "educations": [
+        {
+            "school": {
+                "name": "约翰·霍普金斯大学 (Johns Hopkins University)",
+                "url": "",
+                "excerpt": "约翰霍普金斯大学 （The\nJohns Hopkins University），是一所世界顶尖的私立大学，位于美国马里兰州巴尔的摩市。约翰霍普金斯大学也是全美大学联盟(AAU)的14所创始校之一。医学与公共卫生领域历来是霍普金斯大学的强项。霍普金斯医学院与哈佛医学院齐名，布隆伯格公共卫生学院自有排名以来，历年均为全美第一。泰晤士高等教育增刊评选，霍普金斯在生物医学和生命科学领域全球排名为第三。",
+                "introduction": "<a href=\"http://www.compassedu.hk/univ_92_12?zhihuupdate\" data-editable=\"true\" data-title=\"约翰霍普金斯大学\"><b><u>约翰霍普金斯大学</u></b></a>（The\nJohns Hopkins University），是一所世界顶尖的私立大学，位于美国马里兰州巴尔的摩市。约翰霍普金斯大学也是全美大学联盟(AAU)的14所创始校之一。医学与公共卫生领域历来是霍普金斯大学的强项。霍普金斯医学院与哈佛医学院齐名，布隆伯格公共卫生学院自有排名以来，历年均为全美第一。泰晤士高等教育增刊评选，霍普金斯在生物医学和生命科学领域全球排名为第三。",
+                "avatar_url": "https://pic3.zhimg.com/cbd6be856_is.jpg",
+                "type": "topic",
+                "id": "19762276"
+            },
+            "major": {
+                "name": "自然语言处理",
+                "url": "",
+                "excerpt": "自然语言处理( Natural Language Processing , NLP )",
+                "introduction": "自然语言处理( <a href=\"http://en.wikipedia.org/wiki/Natural_language_processing\" data-editable=\"true\" data-title=\"Natural Language Processing\" class=\"\">Natural Language Processing</a>, NLP )",
+                "avatar_url": "https://pic4.zhimg.com/1f8d9a2c3ed713cf4735d0092d416987_is.jpg",
+                "type": "topic",
+                "id": "19560026"
+            }
+        }
+    ],
+    "following_count": 19,
+    "vote_from_count": 0,
+    "user_type": "people",
+    "show_sina_weibo": false,
+    "pins_count": 0,
+    "is_following": false,
+    "marked_answers_text": "",
+    "account_status": [],
+    "is_force_renamed": false,
+    "id": "3d7b41a9de535bfb9f6a53f68f7afa7c",
+    "favorite_count": 0,
+    "voteup_count": 9213,
+    "commercial_question_count": 0,
+    "is_blocking": false,
+    "following_columns_count": 9,
+    "headline": "见过世界80%的名画真迹",
+    "url_token": "wu-jun-65-59",
+    "participated_live_count": 0,
+    "following_favlists_count": 0,
+    "is_advertiser": false,
+    "is_bind_sina": false,
+    "favorited_count": 654,
+    "is_org": false,
+    "follower_count": 12781,
+    "employments": [],
+    "type": "people",
+    "avatar_url_template": "https://pic1.zhimg.com/da8e974dc_{size}.jpg",
+    "following_topic_count": 6,
+    "description": "《硅谷之谜》、《大学之路》、《浪潮之巅》、《数学之美》、《文明之光》的作者。",
+    "business": {
+        "introduction": "",
+        "avatar_url": "https://pic1.zhimg.com/e82bab09c_is.jpg",
+        "name": "资本投资",
+        "url": "",
+        "type": "topic",
+        "excerpt": "",
+        "id": ""
+    },
+    "avatar_url": "https://pic1.zhimg.com/da8e974dc_is.jpg",
+    "hosted_live_count": 0,
+    "is_active": 1,
+    "thank_to_count": 0,
+    "mutual_followees_count": 1,
+    "marked_answers_count": 0,
+    "cover_url": "",
+    "thank_from_count": 0,
+    "vote_to_count": 0,
+    "is_blocked": false,
+    "answer_count": 4,
+    "allow_message": true,
+    "articles_count": 246,
+    "name": "吴军",
+    "question_count": 0,
+    "locations": [
+        {
+            "name": "美国",
+            "url": "",
+            "excerpt": "美利坚合众国（英语：The United States of America，英文简称：The United States、The States、America；英文缩写：US、USA，中文通称美国）是由 50 州和一个联邦地区组成的联邦共和立宪制国家，此外还有若干海外领地。 美国国土面积大约 963 万平方公里，美国人口约 3.2 亿人，其数量为世界第三。美国是个多文化和民族多元的国家，以白人为主，并有大量移民。美国国旗上的 50 颗白色五角星代表 50 个州，红色及白色横条各为七…",
+            "introduction": "美利坚合众国（英语：The United States of America，英文简称：The United States、The States、America；英文缩写：US、USA，中文通称美国）是由 50 州和一个联邦地区组成的联邦共和立宪制国家，此外还有若干海外领地。 美国国土面积大约 963 万平方公里，美国人口约 3.2 亿人，其数量为世界第三。美国是个多文化和民族多元的国家，以白人为主，并有大量移民。美国国旗上的 50 颗白色五角星代表 50 个州，红色及白色横条各为七条及六条，总计 13 条，为纪念最初独立的十三个州。",
+            "avatar_url": "https://pic3.zhimg.com/abf21b552_is.jpg",
+            "type": "topic",
+            "id": "19551627"
+        }
+    ],
+    "badge": [],
+    "url": "https://www.zhihu.com/api/v4/people/3d7b41a9de535bfb9f6a53f68f7afa7c",
+    "message_thread_token": "2587534000",
+    "logs_count": 0,
+    "following_question_count": 13,
+    "thanked_count": 26,
+    "gender": 1
+}
+
+
+
+
+
+
+
+
+
+{
+    "is_followed": false,
+    "educations": [
+        {
+            "school": {
+                "name": "NC State University",
+                "introduction": "北卡罗来纳州立大学（North Carolina State University）成立于1887年。很早以前就在农业、工程、和教学等领域有著良好的基础。随后，又在生命科学、物理科学、纺织、设计、和社会科学等领域有了长足的发展。 北卡罗来纳州立大学现有学生近3万名（其中包括约1000名外国学生）。每年的预算大约有8.2亿美元。其中用于科研和技术开发的经费则占全美国第31名。学校师资力量雄厚，有19位教授被选为美国科学院（National Academy of Sciences）或工程院（National Academy of Engineering）院士。",
+                "excerpt": "北卡罗来纳州立大学（North Carolina State University）成立于1887年。很早以前就在农业、工程、和教学等领域有著良好的基础。随后，又在生命科学、物理科学、纺织、设计、和社会科学等领域有了长足的发展。 北卡罗来纳州立大学现有学生近3万名（其中包括约1000名外国学生）。每年的预算大约有8.2亿美元。其中用于科研和技术开发的经费则占全美国第31名。学校师资力量雄厚，有19位教授被选为美国科学院（National Academy of Sc…",
+                "url": "",
+                "avatar_url": "https://pic2.zhimg.com/2be10edc1_is.jpg",
+                "type": "topic",
+                "id": "19723909"
+            },
+            "major": {
+                "name": "Civil Engineering",
+                "introduction": "",
+                "excerpt": "",
+                "url": "",
+                "avatar_url": "https://pic1.zhimg.com/e82bab09c_is.jpg",
+                "type": "topic",
+                "id": ""
+            }
+        },
+        {
+            "school": {
+                "name": "斯坦福大学（Stanford University）",
+                "introduction": "",
+                "excerpt": "",
+                "url": "",
+                "avatar_url": "https://pic1.zhimg.com/e82bab09c_is.jpg",
+                "type": "topic",
+                "id": ""
+            }
+        },
+        {
+            "school": {
+                "name": "南洋理工大学（Nanyang Technological University）",
+                "introduction": "<p><a href=\"http://www.compassedu.hk/univ_39_10?zhihuupdate\" data-editable=\"true\" data-title=\"南洋理工大学\">南洋理工大学</a>（简称NTU，南大），是新加坡首屈一指的世界级顶尖大学。NTU工学院是全球规模最大的工程学院之一，商学院也是亚洲顶尖商学院之一。在2015QS世界大学排名中，NTU名列第13位。</p>",
+                "excerpt": "南洋理工大学 （简称NTU，南大），是新加坡首屈一指的世界级顶尖大学。NTU工学院是全球规模最大的工程学院之一，商学院也是亚洲顶尖商学院之一。在2015QS世界大学排名中，NTU名列第13位。",
+                "url": "",
+                "avatar_url": "https://pic3.zhimg.com/5bc0d65e6_is.jpg",
+                "type": "topic",
+                "id": "19648107"
+            }
+        },
+        {
+            "school": {
+                "name": "浙江大学",
+                "introduction": "浙江大学，简称浙大，坐落于素有“人间天堂”美誉的历史文化名城杭州。前身是1897年创建的求是书院，是中国人自己最早创办的现代高等学府之一，是一所具有悠久历史的教育部直属全国重点大学，985、211工程重点建设高校。据ESI公布的数据，截至2015年9月，浙江大学18个学科进入世界学术机构前1%，居全国高校第二；7个学科进入世界前100位，4个学科进入世界前",
+                "excerpt": "浙江大学，简称浙大，坐落于素有“人间天堂”美誉的历史文化名城杭州。前身是1897年创建的求是书院，是中国人自己最早创办的现代高等学府之一，是一所具有悠久历史的教育部直属全国重点大学，985、211工程重点建设高校。据ESI公布的数据，截至2015年9月，浙江大学18个学科进入世界学术机构前1%，居全国高校第二；7个学科进入世界前100位，4个学科进入世界前",
+                "url": "",
+                "avatar_url": "https://pic2.zhimg.com/c6dc9c4a0facc8b00ed685de39d29ced_is.png",
+                "type": "topic",
+                "id": "19580559"
+            },
+            "major": {
+                "name": "环境科学",
+                "introduction": "研究环境的物理、化学、生物三个部分的学科。它提供了综合、定量，和跨学科的方法来研究环境系统。由于大多数环境问题涉及人类活动，因此经济、法律和社会科学知识往往也可用于环境科学研究。<br>研究人类社会发展活动与环境演化规律之间相互作用关系，寻求人类社会与环境协同演化、持续发展途径与方法的的科学。",
+                "excerpt": "研究环境的物理、化学、生物三个部分的学科。它提供了综合、定量，和跨学科的方法来研究环境系统。由于大多数环境问题涉及人类活动，因此经济、法律和社会科学知识往往也可用于环境科学研究。 研究人类社会发展活动与环境演化规律之间相互作用关系，寻求人类社会与环境协同演化、持续发展途径与方法的的科学。",
+                "url": "",
+                "avatar_url": "https://pic3.zhimg.com/b89518e231f7f44767fc9ae279cbc71e_is.jpg",
+                "type": "topic",
+                "id": "19672362"
+            }
+        }
+    ],
+    "following_count": 208,
+    "vote_from_count": 0,
+    "user_type": "people",
+    "show_sina_weibo": true,
+    "pins_count": 1,
+    "is_following": false,
+    "marked_answers_text": "知乎周刊和编辑推荐",
+    "account_status": [],
+    "is_force_renamed": false,
+    "id": "5b2454ef6c1f59ce37fe614d77a64e30",
+    "favorite_count": 17,
+    "voteup_count": 69802,
+    "commercial_question_count": 0,
+    "is_blocking": false,
+    "following_columns_count": 25,
+    "headline": "世界上有两种人。",
+    "url_token": "xiaozhenliu",
+    "participated_live_count": 11,
+    "following_favlists_count": 2,
+    "is_advertiser": false,
+    "is_bind_sina": true,
+    "favorited_count": 70090,
+    "is_org": false,
+    "follower_count": 207967,
+    "employments": [],
+    "marked_answers_count": 11,
+    "avatar_url_template": "https://pic3.zhimg.com/v2-44c3d55bebe52963efdb6d0cb857c3fe_{size}.jpg",
+    "following_topic_count": 44,
+    "description": "人美也要多读书。<br>不爱答科普题。不回复留学和职业选择问题。关注教育、认知、创新、工作效率、行动科学。",
+    "business": {
+        "url": "",
+        "avatar_url": "https://pic1.zhimg.com/e82bab09c_is.jpg",
+        "name": "娱乐休闲",
+        "introduction": "",
+        "type": "topic",
+        "excerpt": "",
+        "id": ""
+    },
+    "avatar_url": "https://pic3.zhimg.com/v2-44c3d55bebe52963efdb6d0cb857c3fe_is.jpg",
+    "sina_weibo_url": "http://weibo.com/u/1644688871",
+    "hosted_live_count": 0,
+    "is_active": 1,
+    "thank_to_count": 0,
+    "mutual_followees_count": 1,
+    "badge": [
+        {
+            "topics": [
+                {
+                    "name": "环境保护",
+                    "introduction": "环境保护是指人类为解决现实的或潜在的环境问题，协调人类与环境的关系，保障经济社会的持续发展而采取的各种行动的总称。",
+                    "excerpt": "环境保护是指人类为解决现实的或潜在的环境问题，协调人类与环境的关系，保障经济社会的持续发展而采取的各种行动的总称。",
+                    "url": "",
+                    "avatar_url": "https://pic4.zhimg.com/bc1454857_is.jpg",
+                    "type": "topic",
+                    "id": "19561734"
+                }
+            ],
+            "type": "best_answerer",
+            "description": "优秀回答者"
+        }
+    ],
+    "cover_url": "https://pic1.zhimg.com/v2-a0504eb1fc7c3ada4a56e2917394d7e8_b.jpg",
+    "thank_from_count": 0,
+    "vote_to_count": 0,
+    "is_blocked": false,
+    "answer_count": 480,
+    "allow_message": false,
+    "articles_count": 25,
+    "name": "刘虓震",
+    "question_count": 30,
+    "locations": [
+        {
+            "name": "杭州",
+            "introduction": "杭州，简称杭，浙江省省会，位于中国东南沿海、浙江省北部、钱塘江下游、京杭大运河南端，是浙江省的政治、经济、文化和金融中心，长江三角洲城市群中心城市之一、长三角宁杭生态经济带节点城市、 中国重要的电子商务中心之一。",
+            "excerpt": "杭州，简称杭，浙江省省会，位于中国东南沿海、浙江省北部、钱塘江下游、京杭大运河南端，是浙江省的政治、经济、文化和金融中心，长江三角洲城市群中心城市之一、长三角宁杭生态经济带节点城市、 中国重要的电子商务中心之一。",
+            "url": "",
+            "avatar_url": "https://pic2.zhimg.com/v2-7dbc88d78852e4ca87cb74731e616719_is.jpg",
+            "type": "topic",
+            "id": "19558830"
+        }
+    ],
+    "type": "people",
+    "sina_weibo_name": "刘虓震",
+    "url": "https://www.zhihu.com/api/v4/people/5b2454ef6c1f59ce37fe614d77a64e30",
+    "message_thread_token": "3492924000",
+    "logs_count": 407,
+    "following_question_count": 759,
+    "thanked_count": 20768,
+    "gender": 0
+}
+
+

@@ -1,0 +1,71 @@
+{
+		"paging": {
+			"is_end": false, 
+			"next": "https://www.zhihu.com/api/v4/members/kaifulee/followees?include=data%5B%2A%5D.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics&limit=20&offset=60", 
+			"previous": "https://www.zhihu.com/api/v4/members/kaifulee/followees?include=data%5B%2A%5D.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics&limit=20&offset=20", 
+			"is_start": false, 
+			"totals": 201
+		}, 
+		"data": [
+			{
+				"is_followed": false, 
+				"avatar_url_template": "https://pic3.zhimg.com/e0591bdfe_{size}.jpg", 
+				"gender": 0, 
+				"name": "赵阿萌", 
+				"url": "https://www.zhihu.com/api/v4/people/95c5ad48d0bef82c84ff134e1798d76e", 
+				"type": "people", 
+				"user_type": "people", 
+				"answer_count": 176, 
+				"url_token": "amonjok", 
+				"is_advertiser": false, 
+				"avatar_url": "https://pic3.zhimg.com/e0591bdfe_is.jpg", 
+				"is_following": false, 
+				"is_org": false, 
+				"headline": "014号知乎用户，知乎专栏更新中", 
+				"follower_count": 292447, 
+				"badge": [ ], 
+				"id": "95c5ad48d0bef82c84ff134e1798d76e", 
+				"articles_count": 20
+			}, 
+			{
+				"is_followed": false, 
+				"avatar_url_template": "https://pic1.zhimg.com/da8e974dc_{size}.jpg", 
+				"gender": -1, 
+				"name": "龚海燕", 
+				"url": "https://www.zhihu.com/api/v4/people/59136ce0fe4ad08db1c8e4f0e6b0f03b", 
+				"type": "people", 
+				"user_type": "people", 
+				"answer_count": 1, 
+				"url_token": "gong-hai-yan", 
+				"is_advertiser": false, 
+				"avatar_url": "https://pic1.zhimg.com/da8e974dc_is.jpg", 
+				"is_following": false, 
+				"is_org": false, 
+				"headline": "网络红娘小龙女", 
+				"follower_count": 534, 
+				"badge": [ ], 
+				"id": "59136ce0fe4ad08db1c8e4f0e6b0f03b", 
+				"articles_count": 0
+			}, 
+			{
+				"is_followed": false, 
+				"avatar_url_template": "https://pic3.zhimg.com/58814963e_{size}.jpg", 
+				"gender": -1, 
+				"name": "徐潇", 
+				"url": "https://www.zhihu.com/api/v4/people/16c58180c01330063989b8f9f0b9b5f4", 
+				"type": "people", 
+				"user_type": "people", 
+				"answer_count": 2, 
+				"url_token": "xu-xiao-62", 
+				"is_advertiser": false, 
+				"avatar_url": "https://pic3.zhimg.com/58814963e_is.jpg", 
+				"is_following": false, 
+				"is_org": false, 
+				"headline": "钻石小鸟创始人&联合总裁  当钻石遇到小鸟，你就有了亲近它的理由。", 
+				"follower_count": 1042, 
+				"badge": [ ], 
+				"id": "16c58180c01330063989b8f9f0b9b5f4", 
+				"articles_count": 0
+		      }
+	]
+}
